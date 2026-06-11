@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
   logoContainer: {
     alignItems: "center",
     marginTop: 70,
-    marginBottom: 80,
+    marginBottom: 90,
   },
 
   logoCircle: {
